@@ -7,14 +7,14 @@
    - b) IBM 701
    - c) Apple I
    - d) Máquina Analítica
-R: a) ENIAC
+   R: a) ENIAC
 
 2. Quem criou a World Wide Web?
    - a) Bill Gates
    - b) Steve Jobs
    - c) Tim Berners-Lee
    - d) Charles Babbage
-R: c) Tim Berners-Lee
+   R: c) Tim Berners-Lee
 
 ## Questões Dissertativas
 
