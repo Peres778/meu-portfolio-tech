@@ -1,4 +1,4 @@
-# Tecnologias que Impactaram Minha Vida
+# Tecnologias que impactaram minha vida
 
 A tecnologia está presente em quase todos os aspectos da nossa vida. Abaixo, listo três tecnologias que tiveram um impacto significativo para mim:
 
